@@ -26,7 +26,7 @@ function Todo() {
                     }} value={inputdata} />
                 </div>
                 <div className="col-lg-2 col-12 col-md-2">
-                    <button className="btn btn-outline-success" onClick={submitData} >Submit</button>
+                    <button className="btn btn-outline-success px-3" onClick={submitData} >Submit</button>
                 </div>
                 <div className="mt-3 d-flex justify-content-center">
                     <button onClick={() => {
