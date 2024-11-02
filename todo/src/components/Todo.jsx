@@ -13,9 +13,6 @@ function Todo() {
         else {
             alert("Please enter the task details")
         }
-
-
-
     }
 
     return (
@@ -57,4 +54,4 @@ function Todo() {
     )
 }
 
-export default Todo
+export default Todo;
