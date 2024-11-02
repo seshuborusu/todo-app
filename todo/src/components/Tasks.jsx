@@ -25,4 +25,4 @@ function Tasks(props) {
         </div>
     )
 }
-export default Tasks
+export default Tasks;

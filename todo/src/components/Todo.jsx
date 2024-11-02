@@ -19,7 +19,7 @@ function Todo() {
     }
 
     return (
-        <div className="container my-5">
+        <div className="container my-4">
             <div className="row "><h1 className="my-3 fw-semibold">Todo <span className="text-info fw-bold">App</span></h1></div>
             <div className="row  shadow p-5 rounded " style={{ backgroundColor: "white" }}>
 
